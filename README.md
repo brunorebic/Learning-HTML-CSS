@@ -1,3 +1,3 @@
-# VS-Code-git
+# Learning-HTML-CSS
 
 My first website using HTML
